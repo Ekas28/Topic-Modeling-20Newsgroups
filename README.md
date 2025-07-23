@@ -1,5 +1,7 @@
 # 📌 Topic Modeling on 20 Newsgroups Dataset  
 
+---
+
 ## 📖 Project Overview  
 This project applies **Topic Modeling** on the **20 Newsgroups dataset**, a popular text dataset containing approximately 20,000 documents from 20 different categories. The goal is to group similar documents and extract hidden topics using:  
 ✔ **Latent Dirichlet Allocation (LDA)**  
@@ -117,31 +119,3 @@ Optimize preprocessing with spaCy
 Your Name
 📧 your-email@example.com
 🔗 LinkedIn | GitHub
-
-yaml
-Copy
-Edit
-
----
-
-✅ Replace:
-- `your-username` → your GitHub username
-- `your-email@example.com` → your email
-- LinkedIn link → your LinkedIn profile link
-
----
-
-🔥 Do you want me to **also give you a professional version of `data/README.md` and `notebooks/README.md` so your repo looks complete and polished**?  
-Or **generate a single command that creates the entire folder structure with placeholder files automatically**?
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
-
-
